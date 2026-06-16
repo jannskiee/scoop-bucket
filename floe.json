@@ -6,14 +6,14 @@
             "bin": [
                 "floe.exe"
             ],
-            "hash": "6cf7e3ded043bc8527c8944b2d7898da988f0b1240766b0f5b7f86fb91a6a477"
+            "hash": "5e27151830c732de69c08d562b294dfdece739b472436c191fd60764f8cbdccd"
         },
         "arm64": {
             "url": "https://github.com/jannskiee/floe/releases/download/v1.3.0/floe_1.3.0_windows_arm64.zip",
             "bin": [
                 "floe.exe"
             ],
-            "hash": "96ee8ed0a54966e49de455da3fde3f4d48261ae14af795e4873c9d715bdff2ac"
+            "hash": "67d68b7e3037978cd84a27fd3c94edc89eea96b4db077df9228d5d2bdb6221b6"
         }
     },
     "homepage": "https://floe.one",
