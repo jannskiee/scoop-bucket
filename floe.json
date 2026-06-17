@@ -1,19 +1,19 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jannskiee/floe/releases/download/v1.4.0/floe_1.4.0_windows_amd64.zip",
+            "url": "https://github.com/jannskiee/floe/releases/download/v1.5.0/floe_1.5.0_windows_amd64.zip",
             "bin": [
                 "floe.exe"
             ],
-            "hash": "25ff8ed5e632036d529cc78457184239377225403004b922f4a7d29876784dda"
+            "hash": "ca7870a8ff1c9d84f4d5a8f4e48daeb0abfbd72671405d06b985ec189cf2094e"
         },
         "arm64": {
-            "url": "https://github.com/jannskiee/floe/releases/download/v1.4.0/floe_1.4.0_windows_arm64.zip",
+            "url": "https://github.com/jannskiee/floe/releases/download/v1.5.0/floe_1.5.0_windows_arm64.zip",
             "bin": [
                 "floe.exe"
             ],
-            "hash": "70d9a130a346d5a7244e1523f5a6deaa04a1918990f16a8a8458c7549322082f"
+            "hash": "254e94f8d6b77c1dce20afed56292a5f129d5e30ec23c504b5c8bab3ae784fe2"
         }
     },
     "homepage": "https://floe.one",
